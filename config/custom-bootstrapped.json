@@ -1,0 +1,33 @@
+{
+	"network": "florencenet",
+	"rpc": "https://testnet-tezos.giganode.io",
+	"bcd": {
+		"api": "https://api.better-call.dev",
+		"gui": "https://better-call.dev"
+	},
+	"tzkt": {
+		"api": "https://api.florencenet.tzkt.io"
+	},
+	"admin": {
+		"address": "tz1MN9FthTuQyMSGSXHyiXvAkzHf4yUE2F5u"
+	},
+	"ipfsApi": "https://minter-api.tqhosted.com",
+	"ipfsGateway": "https://tqtezos.mypinata.cloud",
+	"contractOpts": {
+		"marketplace": {
+			"adminOnly": false,
+			"fee": {
+				"percent": 1,
+				"address": "tz1MN9FthTuQyMSGSXHyiXvAkzHf4yUE2F5u"
+			}
+		}
+	},
+	"contracts": {
+		"nftFaucet": "KT19mAiWwqG8jRGXs4D4NCKA4UmCVCyLrJzb",
+		"marketplace": {
+			"fixedPrice": {
+				"tez": "KT1LHPArL6dHmuzjtQaVnrXYeXAdwSEYqHZ1"
+			}
+		}
+	}
+}

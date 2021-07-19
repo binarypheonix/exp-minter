@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4af018f7.chunk.css",
+    "main.js": "/static/js/main.c1496eaf.chunk.js",
+    "main.js.map": "/static/js/main.c1496eaf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.09b85ec0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.09b85ec0.js.map",
+    "static/js/2.a7e091a7.chunk.js": "/static/js/2.a7e091a7.chunk.js",
+    "static/js/2.a7e091a7.chunk.js.map": "/static/js/2.a7e091a7.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ff4c73cb16c8df2177b73e51210dbaf3.js": "/precache-manifest.ff4c73cb16c8df2177b73e51210dbaf3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4af018f7.chunk.css.map": "/static/css/main.4af018f7.chunk.css.map",
+    "static/js/2.a7e091a7.chunk.js.LICENSE.txt": "/static/js/2.a7e091a7.chunk.js.LICENSE.txt",
+    "static/media/header-logo.svg": "/static/media/header-logo.a9dd48a8.svg",
+    "static/media/link-icon.svg": "/static/media/link-icon.8cce1dcb.svg",
+    "static/media/splash-logo.svg": "/static/media/splash-logo.d8992012.svg",
+    "static/media/tezos-sym.svg": "/static/media/tezos-sym.b5be31f6.svg",
+    "static/media/wallet.svg": "/static/media/wallet.1a72e9f4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09b85ec0.js",
+    "static/js/2.a7e091a7.chunk.js",
+    "static/css/main.4af018f7.chunk.css",
+    "static/js/main.c1496eaf.chunk.js"
+  ]
+}
